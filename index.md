@@ -1,4 +1,4 @@
-## AAAI 2022 Tutorial: Reasoning on Knowledge Graphs: Symbolic or Neural?
+## AAAI 2022 Tutorial: <br>Reasoning on Knowledge Graphs: Symbolic or Neural?
 
 This is the website of the AAAI 2022 tutorial, Reasoning on Knowledge Graphs: Symbolic or Neural?
 
@@ -10,57 +10,42 @@ Knowledge graphs encode real-world facts and are critical in a variety of applic
 
 * Introduction
 * Part 1: Neural Methods
-
   * Knowledge graph embeddings
-
     * TransE, ComplEx, RotatE, QuatE
-
   * Graph neural networks
-
     * RGCN, GraIL
-
   * Benchmark datasets and evaluation
+
 * Part 2: Symbolic Logic Methods
-
   * Logic programming
-
     * Forward chaining, backward chaining
-
   * Bayesian logic programming
-
     * ProbLog, DeepProbLog
-
   * Markov logic programming
-
     * Marlov logic networks
-
   * Stochastic logic programming
-
     * TensorLog
+
 * Part 3: Neural-Symbolic Methods
-
   * Markov logic programming based
-
     * pLogicNet
-
   * Stochastic logic programming based
-
     * ProPPR
-* Part 4: Logic Rule Induction Methods
 
+* Part 4: Logic Rule Induction Methods
   * Inductive logic programming
   * Neural-powered ILP
-
     * Differentiable ILP, Neural Theorem Provers, RNNLogic
   * Neural ILP with SLP
-
     * NeuralLP, DeepPath, NBFNet
+
 * Part 5: Summary and Future Directions
   * Summary
   * Complex logical query answering
   * Natural language processing
   * Recommendation
   * Drug discovery
+
 
 ### Speakers
 
