@@ -4,19 +4,20 @@ This is the website of the AAAI 2022 tutorial, Reasoning on Knowledge Graphs: Sy
 
 ### Introduction
 
-Knowledge graphs encode real-world facts and are critical in a variety of applications and domains such as natural language understanding, recommender systems, drug discovery, and image understanding. A fundamental problem on knowledge graphs is to predict missing facts by reasoning with existing facts, a.k.a. knowledge graph reasoning. Such a problem has been extensively studied in different communities of AI including general AI community (AAAI, IJCAI), machine learning community (ICML, NeurIPS, ICLR), data mining community (KDD, WSDM, WWW), and NLP community (ACL, EMNLP, NAACL), which either focus on development of fundamental methodology or solutions to important real-world problems. Therefore, a systematic introduction to knowledge graph reasoning summarizing the progress across different communities would benefit broad audience. In this tutorial, we plan to give a comprehensive introduction to different methods of knowledge graph reasoning, including traditional symbolic logic rule-based methods, neural-based methods, neural-symbolic methods, logic rule induction approaches, and different \emph{applications}. This tutorial will benefit both junior and senior researchers and researchers interested in both methodology development and applications.
+Knowledge graphs encode real-world facts and are critical in a variety of applications and domains such as natural language understanding, recommender systems, drug discovery, and image understanding. A fundamental problem on knowledge graphs is to predict missing facts by reasoning with existing facts, a.k.a. knowledge graph reasoning. Such a problem has been extensively studied in different communities of AI including general AI community (AAAI, IJCAI), machine learning community (ICML, NeurIPS, ICLR), data mining community (KDD, WSDM, WWW), and NLP community (ACL, EMNLP, NAACL), which either focus on development of fundamental methodology or solutions to important real-world problems. Therefore, a systematic introduction to knowledge graph reasoning summarizing the progress across different communities would benefit broad audience. In this tutorial, we plan to give a comprehensive introduction to different methods of knowledge graph reasoning, including traditional symbolic logic rule-based methods, neural-based methods, neural-symbolic methods, logic rule induction approaches, and different applications. This tutorial will benefit both junior and senior researchers and researchers interested in both methodology development and applications.
 
 ### Outline
 
-* Introduction
-* Part 1: Neural Methods
+* Introduction [[slides]](https://aaai2022kgreasoning.github.io/part0_intro.pptx)
+
+* Part 1: Neural Methods [[slides]](https://aaai2022kgreasoning.github.io/part1_neural.pptx)
   * Knowledge graph embeddings
     * TransE, ComplEx, RotatE, QuatE
   * Graph neural networks
     * RGCN, GraIL
   * Benchmark datasets and evaluation
 
-* Part 2: Symbolic Logic Methods
+* Part 2: Symbolic Logic Methods [[slides]](https://aaai2022kgreasoning.github.io/part2_symbolic.pptx)
   * Logic programming
     * Forward chaining, backward chaining
   * Bayesian logic programming
@@ -26,26 +27,25 @@ Knowledge graphs encode real-world facts and are critical in a variety of applic
   * Stochastic logic programming
     * TensorLog
 
-* Part 3: Neural-Symbolic Methods
+* Part 3: Neural-Symbolic Methods [[slides]](https://aaai2022kgreasoning.github.io/part3_neural-symbolic.pptx)
   * Markov logic programming based
     * pLogicNet
   * Stochastic logic programming based
     * ProPPR
 
-* Part 4: Logic Rule Induction Methods
+* Part 4: Logic Rule Induction Methods [[slides]](https://aaai2022kgreasoning.github.io/part4_rule-induction.pptx)
   * Inductive logic programming
   * Neural-powered ILP
     * Differentiable ILP, Neural Theorem Provers, RNNLogic
   * Neural ILP with SLP
     * NeuralLP, DeepPath, NBFNet
 
-* Part 5: Summary and Future Directions
+* Part 5: Summary and Future Directions [[slides]](https://aaai2022kgreasoning.github.io/part5_conclusion.pptx)
   * Summary
   * Complex logical query answering
   * Natural language processing
   * Recommendation
   * Drug discovery
-
 
 ### Speakers
 
